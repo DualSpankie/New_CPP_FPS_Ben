@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.pak
+CPP_FPS/Binaries/Win64/CPP_FPS.pdb

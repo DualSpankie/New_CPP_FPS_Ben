@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Benjamin\\Documents\\Unreal Projects\\CPP_FPS\\CPP_FPS\\Source\\CPP_FPS\\CPP_FPS.Build.cs",
+		"C:\\Users\\Benjamin\\Documents\\Unreal Projects\\CPP_FPS\\CPP_FPS\\Source\\CPP_FPS.Target.cs",
+		"C:\\Users\\Benjamin\\Documents\\Unreal Projects\\CPP_FPS\\CPP_FPS\\Source\\CPP_FPSEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

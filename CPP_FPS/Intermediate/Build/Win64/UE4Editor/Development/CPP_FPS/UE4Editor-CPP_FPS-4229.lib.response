@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CPP_FPS-4229.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\CPP_FPSEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPS.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPSCharacter.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPSGameMode.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPSHUD.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPSProjectile.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\Sensor.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPS.init.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPSCharacter.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPSGameMode.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPSHUD.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\CPP_FPSProjectile.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\Sensor.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\Default.rc2.res"
+/OUT:"C:\Users\Benjamin\Documents\Unreal Projects\CPP_FPS\CPP_FPS\Intermediate\Build\Win64\UE4Editor\Development\CPP_FPS\UE4Editor-CPP_FPS-4229.lib"
+/INCLUDE:IMPLEMENT_MODULE_CPP_FPS
